@@ -1,0 +1,125 @@
+body{
+    background-color:#808080;
+}
+
+.header{
+    width: 1200px;
+    height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    background-color: #D3D3D3;
+    border-top: black 2px solid;
+    border-bottom: white 2px solid;
+    border-left: black 2px solid;
+    border-right: black 2px solid;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+img{
+    padding-top: 10px;
+    padding-left: 50px;
+}
+
+.datenverarbeitung img{
+    margin-left: 300px;
+    margin-top: 150px;
+    transform: scaleX(-1);
+}
+
+h1{
+    float: right;
+    margin-right: 450px;
+    margin-top: 11px;
+    font-family: 'Monda', sans-serif;
+}
+
+.hauptteil{
+    
+    width: 1200px;
+    height: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 2px;
+}
+
+.menueleiste{
+    width: 230px;
+    height: 450px;
+    margin-top: -0.5px;
+    background-color: #D3D3D3;
+    float: left;
+    border-left: black 2px solid;
+    border-right: white 2.5px solid;
+}
+
+.menueleiste ul{
+    padding-right:auto;
+    padding-left:auto;
+    padding-top: 35px;
+    margin-left: -40px;
+    margin-top: 7px;
+    margin-left: 10px;
+    border-right: gray 2.5px solid;
+}
+
+
+.menueleiste ul li{
+    padding-top: 40px;
+    list-style: none;
+    color: black;
+    font-size: 12pt;
+    font-family:'Monda', sans-serif;
+}
+
+
+.menueleiste ul li a{
+    padding: 4px 30px;
+    text-align: center;
+    background-color:#A9A9A9;
+    color: black;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+
+.menueleiste ul li a:hover{
+    background-color: whitesmoke;
+}
+
+.inhalt{
+    width: 970px;
+    height: 450px;
+    background-color: #D3D3D3;
+    margin-left: 230px;
+    margin-top: -450px;
+    border-right: black 2px solid;
+    border-left: white 1.5px solid;
+    float:left;
+}
+
+
+.datenverarbeitung{
+    width: 900px;
+    height: 400px;
+    background-color: white;
+    margin-left: 35px;
+    margin-top: 25px;
+    border-radius: 30px;
+    border: black 1px solid;
+}
+
+.footer{
+    width: 1200px;
+    height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #D3D3D3;
+    border-top: white 2.5px solid;
+    border-bottom: black 2px solid;
+    border-left: black 2px solid;
+    border-right: black 2px solid;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}

@@ -1,0 +1,22 @@
+form{
+    margin-top: 10px;
+    margin-left: 320px;
+}
+
+input[type=text]{
+    height: 20px;
+    width: 200px;
+}
+
+input[type=submit]{
+    height: 28px;
+    font-size: 11.5pt;
+}
+
+.datenverarbeitung img{
+    margin-left: 320px;
+}
+
+.datenverarbeitung_hinweisText{
+    margin-left: 320px;
+}
